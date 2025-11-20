@@ -32,7 +32,7 @@ function LandingPage() {
 
             {/* LOGO: Z-Index 30 ensures it is above the background (z-0) */}
             <img
-                src="./public/Logo.png"
+                src="./Shoes/Logo.png"
                 className="invert w-28 md:w-36 absolute top-0 left-0 z-30 
                            transition-all duration-300 hover:scale-105 hover:drop-shadow-lg"
                 alt="FootVerse Logo"
